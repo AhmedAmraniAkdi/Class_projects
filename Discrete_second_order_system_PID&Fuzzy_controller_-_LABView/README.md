@@ -1,0 +1,1 @@
+### Discrete second order system on either open loop, or closed loop with PID controller or fuzzy controller in LABView
